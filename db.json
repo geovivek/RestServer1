@@ -1,11 +1,13 @@
 {
-		 hssAuthenticationVectors:
-		 {AvEpsAka:[
-		 avType:'EPS_AKA',
-		 rand:'',
-		 xres:'',
-		 autn:'',
-		 kasme:''
-			 }
-		 ]
-		 }
+   "hssAuthenticationVectors": [
+      {
+         "AvEpsAka": {
+		 "avType":"EPS_AKA",
+            "rand": " 21212",
+            "xres": "212121",
+            "autn": "212121",
+            "kasme": "1221212"
+         }
+      }
+   ]
+}
