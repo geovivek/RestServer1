@@ -1,0 +1,10 @@
+{
+		 hssAuthenticationVectors:
+		 {AvEpsAka:[
+		 avType:'EPS_AKA',
+		 rand:'',
+		 xres:'',
+		 autn:'',
+		 kasme:''
+		 
+		 ]
